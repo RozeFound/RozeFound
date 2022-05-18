@@ -7,5 +7,5 @@ For now I'm an active Archᵇᵗʷ linux user, with KDE Plasma in one hand and t
 
 If you want to contact me, you can find me on Discord at `розт#0639`, or on [Fabulously Optimized Discord server](https://discord.gg/yxaXtaQqdB) since I spend a lot of time with these folks.
 
-<img align="left" src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide=contribs&include_all_commits=true&hide_border=true"/>
-<img align="right" src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&hide_border=true"/>
+![Anurag's GitHub stats](https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide=contribs&include_all_commits=true&hide_border=true&hide_rank=true)
+![Top Langs](https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&hide_border=true)
