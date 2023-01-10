@@ -7,6 +7,6 @@ For now I'm an active EndeavourOS user, with Gnome in one hand and too-many-(rea
 
 If you want to contact me, you can find me on Discord at `розт#0639`, or on [Fabulously Optimized Discord server](https://discord.gg/yxaXtaQqdB) since I spend a lot of time with these folks.
 <p align="center">
-  <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide=contribs&hide_border=true"/>
+  <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&hide_title=true&hide=contribs&hide_border=true&hide_rank=true"/>
   <img src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&hide_border=true&langs_count=4"/>
 </p>
