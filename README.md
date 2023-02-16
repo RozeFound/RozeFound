@@ -8,7 +8,29 @@ But, translations isn't the primary thing I do, I'm more into programming.
 C++ and Python is the languages I'm most comfortable with, C++ I use for more or less serious projects with tight hardware or OS interactions, and Python for more hobby and automation tasks.
 
 If you want to contact me, you can find me on Discord at `розт#0639`, or on [Fabulously Optimized Discord server](https://discord.gg/yxaXtaQqdB) since I spend a lot of time with these folks. One day I'll create public email for anyone to see and message, but that day is not today, and probably not tomorrow, and not the day after... You got the point.
+
 <p align="center">
-  <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"/>
-  <img src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&bg_color=ffffff00&hide_border=true&langs_count=4"/>
+ <picture>
+ <source 
+   srcset="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
+   media="(prefers-color-scheme: dark)"
+ />
+ <source
+   srcset="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+ />
+ <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"/>
+ </picture>
+ 
+ <picture>
+ <source 
+   srcset="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&bg_color=ffffff00&hide_border=true&langs_count=4"
+   media="(prefers-color-scheme: dark)"
+ />
+ <source
+   srcset="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+ />
+ <img src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"/>
+ </picture>
 </p>
