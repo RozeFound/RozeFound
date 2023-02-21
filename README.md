@@ -9,7 +9,7 @@ C++ and Python is the languages I'm most comfortable with, C++ I use for more or
 
 If you want to contact me, you can find me on Discord at `розт#0639`, or just mail me.
 
-<p align="center">
+<p align="center"> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
  <source 
    srcset="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
@@ -21,7 +21,7 @@ If you want to contact me, you can find me on Discord at `розт#0639`, or jus
  />
  <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"/>
  </picture>
- 
+ </a> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
  <source 
    srcset="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&bg_color=ffffff00&hide_border=true&langs_count=4"
@@ -33,4 +33,4 @@ If you want to contact me, you can find me on Discord at `розт#0639`, or jus
  />
  <img src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"/>
  </picture>
-</p>
+</a> </p>
