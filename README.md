@@ -11,15 +11,15 @@ If you want to contact me, you can find me on Discord at `розт#0639`, or jus
 
 <p align="center"> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
- <source 
-   srcset="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
+ <source
+   srcset="https://github-readme-stats.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&theme=dracula&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
    media="(prefers-color-scheme: dark)"
  />
  <source
-   srcset="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
+   srcset="https://github-readme-stats.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  />
- <img src="https://github-readme-stats-gilt-three.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=RozeFound&count_private=true&show_icons=true&bg_color=ffffff00&hide_title=true&hide=contribs&hide_border=true&card_width=460"/>
  </picture>
  </a> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
