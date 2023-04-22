@@ -24,13 +24,13 @@ If you want to contact me, you can find me on Discord at `розт#0639`, or jus
  </a> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
  <source 
-   srcset="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&bg_color=ffffff00&hide_border=true&langs_count=4"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RozeFound&layout=compact&theme=dracula&bg_color=ffffff00&hide_border=true&langs_count=4"
    media="(prefers-color-scheme: dark)"
  />
  <source
-   srcset="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"
+   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  />
- <img src="https://github-readme-stats-gilt-three.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozeFound&layout=compact&bg_color=ffffff00&hide_border=true&langs_count=4"/>
  </picture>
 </a> </p>
