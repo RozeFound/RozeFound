@@ -5,7 +5,6 @@ I'm D.D. aka RozeFound aka Blind Bandit, the chibi Rimuru and blind earthbender 
 - Translate mods, software and manga sometimes.
 - Love to ~~suffer~~code in C++, and speak Python occasionally.
 
-### My specs:
 [![OS - EndeavourOS](https://img.shields.io/badge/EndeavourOS-blueviolet?logo=archlinux&style=for-the-badge&logoColor=white)](https://endeavouros.com) [![DE - GNOME](https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&style=for-the-badge&logoColor=white)](https://gnome.org)
 [![CPU - Intel Core i5-8500](https://img.shields.io/badge/i5--8500-0071C5?logo=intel&style=for-the-badge&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i58500-processor-9m-cache-up-to-4-10-ghz.html)
 [![GPU - nVIDIA GTX 10603G](https://img.shields.io/badge/GTX_1060_3G-76B900?logo=nvidia&style=for-the-badge&logoColor=white)](https://www.nvidia.com/ru-ru/geforce/10-series)
