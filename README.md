@@ -4,14 +4,14 @@ I'm D.D. aka RozeFound aka Blind Bandit, the chibi Rimuru and blind earthbender 
 - I speak Russian and English, and also learning Japanese.
 - Translate mods, software and manga sometimes.
 - Love to ~~suffer~~code in C++, and speak Python occasionally.
-
-[![OS - EndeavourOS](https://img.shields.io/badge/EndeavourOS-blueviolet?logo=archlinux&style=for-the-badge&logoColor=white)](https://endeavouros.com) [![DE - GNOME](https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&style=for-the-badge&logoColor=white)](https://gnome.org)
-[![CPU - Intel Core i5-8500](https://img.shields.io/badge/i5--8500-0071C5?logo=intel&style=for-the-badge&logoColor=white)](https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i58500-processor-9m-cache-up-to-4-10-ghz.html)
-[![GPU - nVIDIA GTX 10603G](https://img.shields.io/badge/GTX_1060_3G-76B900?logo=nvidia&style=for-the-badge&logoColor=white)](https://www.nvidia.com/ru-ru/geforce/10-series)
-[![PPL - C++](https://img.shields.io/badge/Cpp-5C6BC0?logo=c%2B%2B&style=for-the-badge&logoColor=white)](http://101.lv/learn/C++)
-[![SPL - Python](https://img.shields.io/badge/Python-FED142?logo=python&style=for-the-badge)](https://www.python.org)
-
-
+- 
+<p align="center">
+<a href="https://endeavouros.com"><img src="https://img.shields.io/badge/EndeavourOS-blueviolet?logo=archlinux&style=for-the-badge&logoColor=white" alt="OS - EndeavourOS"></a> <a href="https://gnome.org"><img src="https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&style=for-the-badge&logoColor=white" alt="DE - GNOME"></a>
+<a href="https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i58500-processor-9m-cache-up-to-4-10-ghz.html"><img src="https://img.shields.io/badge/i5--8500-0071C5?logo=intel&style=for-the-badge&logoColor=white" alt="CPU - Intel Core i5-8500"></a>
+<a href="https://www.nvidia.com/ru-ru/geforce/10-series"><img src="https://img.shields.io/badge/GTX_1060_3G-76B900?logo=nvidia&style=for-the-badge&logoColor=white" alt="GPU - nVIDIA GTX 1060 3G"></a>
+<a href="http://101.lv/learn/C++"><img src="https://img.shields.io/badge/Cpp-5C6BC0?logo=c%2B%2B&style=for-the-badge&logoColor=white" alt="PPL - C++"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FED142?logo=python&style=for-the-badge" alt="SPL - Python"></a>
+</p>
 
 <p align="center"> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
