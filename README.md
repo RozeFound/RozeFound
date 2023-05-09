@@ -4,7 +4,7 @@ I'm D.D. aka RozeFound aka Blind Bandit, the chibi Rimuru and blind earthbender 
 - I speak Russian and English, and also learning Japanese.
 - Translate mods, software and manga sometimes.
 - Love to ~~suffer~~code in C++, and speak Python occasionally.
-- 
+
 <p align="center">
 <a href="https://endeavouros.com"><img src="https://img.shields.io/badge/EndeavourOS-blueviolet?logo=archlinux&style=for-the-badge&logoColor=white" alt="OS - EndeavourOS"></a> <a href="https://gnome.org"><img src="https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&style=for-the-badge&logoColor=white" alt="DE - GNOME"></a>
 <a href="https://ark.intel.com/content/www/us/en/ark/products/129939/intel-core-i58500-processor-9m-cache-up-to-4-10-ghz.html"><img src="https://img.shields.io/badge/i5--8500-0071C5?logo=intel&style=for-the-badge&logoColor=white" alt="CPU - Intel Core i5-8500"></a>
