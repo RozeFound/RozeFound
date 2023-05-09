@@ -1,13 +1,18 @@
-Hi, I'm D.D. aka RozeFound aka Blind Bandit, but you can call me Rozy. 
+### 皆今日は！
+I'm D.D. aka RozeFound aka Blind Bandit, the chibi Rimuru and blind earthbender fan. 
 
-For now I'm an active EndeavourOS user, with Gnome in one hand and too-many-(really handy)-cli-tools in the other. I speak Russian and English (not quite good, because you probably already noticed a lot of grammar mistakes which I didn't), and also learning Japanese which is a whole different adventure.
- 
-Sometimes I translate things, usually mods for different games like Skyrim or Minecraft, but occasionally I put my hands on software or literature.
-But, translations isn't the primary thing I do, I'm more into programming.
+- I speak Russian and English, and also learning Japanese.
+- Translate mods, software and manga sometimes.
+- Love to ~~suffer~~code in C++, and speak Python occasionally.
 
-C++ and Python is the languages I'm most comfortable with, C++ I use for more or less serious projects with tight hardware or OS interactions, and Python for more hobby and automation tasks.
+### My specs:
+[![OS - EndeavourOS](https://img.shields.io/badge/EndeavourOS-blueviolet?logo=archlinux&style=for-the-badge&logoColor=white)](https://endeavouros.com) [![DE - GNOME](https://img.shields.io/badge/Gnome-4A86CF?logo=gnome&style=for-the-badge&logoColor=white)](https://gnome.org)
+![CPU - Intel Core i5-8500](https://img.shields.io/badge/i5--8500-0071C5?logo=intel&style=for-the-badge&logoColor=white)
+![GPU - nVIDIA GTX 10603G](https://img.shields.io/badge/GTX_1060_3G-76B900?logo=nvidia&style=for-the-badge&logoColor=white)
+![PPL - C++](https://img.shields.io/badge/C++-5C6BC0?logo=c++&style=for-the-badge&logoColor=white)
+![SPL - Python](https://img.shields.io/badge/Python-FED142?logo=python&style=for-the-badge)
 
-If you want to contact me, you can find me on Discord at `розт#0639`, or just mail me.
+
 
 <p align="center"> <a href=https://github.com/anuraghazra/github-readme-stats>
  <picture>
